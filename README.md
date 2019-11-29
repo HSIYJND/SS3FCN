@@ -1,4 +1,4 @@
- ![Image text](https://github.com/leonzx7/SS3FCN/blob/master/img-storage/fig1.png）
+![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png)
 Methods of training and testing SS3FCN:
 
 	1. Modify data_name,fold_num_train in dataset. Py
